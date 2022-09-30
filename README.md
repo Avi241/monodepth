@@ -28,6 +28,7 @@
 
 ```bash
 apt-get install python python-pip curl
+pip install --upgrade pip
 pip install rosdep rospkg rosinstall_generator rosinstall wstool vcstools catkin_tools catkin_pkg
 ```
 
