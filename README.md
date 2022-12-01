@@ -8,6 +8,8 @@
 
 ### Configuration
 
+- Use tensorflow==1.13.1 and keras==2.2.4
+
 - Topics subscribed by the ROS node
   - /image/camera_raw - Input image from camera (can be changed on the parameter topic_color)
 - Topics published by the ROS node, containing depth and point cloud data generated.
